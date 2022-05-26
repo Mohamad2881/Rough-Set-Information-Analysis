@@ -1,0 +1,26 @@
+U/A,Condition Attributes,Condition Attributes,Condition Attributes,Condition Attributes,Decision Attributes
+,Age,Spectacle,Astigmatic,Tear Production rate,optician's decision
+P1,Young,Hypermetrope,No,Reduced,?
+P2,Young,Hypermetrope,No,Normal,Soft contact lenses
+P3,Pre-presbyopic,Hypermetrope,No,Reduced,No contact lenses
+P4,Pre-presbyopic,Hypermetrope,No,Normal,Soft contact lenses
+P5,Presbyopic,Hypermetrope,No,Reduced,No contact lenses
+P6,Presbyopic,Hypermetrope,No,Normal,Soft contact lenses
+P7,Young,Hypermetrope,Yes,Reduced,?
+P8,Young,Hypermetrope,Yes,Normal,Hard contact lenses
+P9,Pre-presbyopic,Hypermetrope,Yes,Reduced,No contact lenses
+P10,Pre-presbyopic,Hypermetrope,Yes,Normal,No contact lenses
+P11,Presbyopic,Hypermetrope,Yes,Reduced,No contact lenses
+P12,Presbyopic,Hypermetrope,Yes,Normal,No contact lenses
+P13,Young,Myope,No,Reduced,?
+P14,Young,Myope,No,Normal,?
+P15,Pre-presbyopic,Myope,No,Reduced,No contact lenses
+P16,Pre-presbyopic,Myope,No,Normal,Soft contact lenses
+P17,Presbyopic,Myope,No,Reduced,No contact lenses
+P18,Presbyopic,Myope,No,Normal,No contact lenses
+P19,Young,Myope,Yes,Reduced,?
+P20,Young,Myope,Yes,Normal,?
+P21,Pre-presbyopic,Myope,Yes,Reduced,No contact lenses
+P22,Pre-presbyopic,Myope,Yes,Normal,Hard contact lenses
+P23,Presbyopic,Myope,Yes,Reduced,No contact lenses
+P24,Presbyopic,Myope,Yes,Normal,Hard contact lenses

@@ -1,0 +1,10 @@
+Condition Attributes,Condition Attributes,Condition Attributes,Condition Attributes,Decision Attributes
+C,I,N,V,Q
+5,Fair,Medium,Medium,Low
+4,Fair,Medium,Medium,Low
+5,Good,Medium,Medium,Low
+5,Fair,Low,Low,Medium
+2,Fair,Medium,Low,Medium
+4,Excellent,Low,Medium,High
+4,Good,Low,Low,High
+2,Good,Low,Low,High
